@@ -1,10 +1,10 @@
 
-**_OBS_Ikke-færdig readme**
+**Ikke-færdig readme**
 
 # Speciale, Foråret 2019
-### Tobias Søndergaard & Jesper Haubjerg
-   
-***Titel...***  
+### Titel: asd
+***Tobias Søndergaard & Jesper Haubjerg***
+  
   
 I dette GitHub Repo. findes koder til replikationer af de analyser, grafer, tabeller, beregninger mv., der
 er blevet udarbejdet i forbindelse med vores speciale ved Institut for Statskundskab, Aarhus Universitet.

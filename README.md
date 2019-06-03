@@ -1,10 +1,8 @@
 
-***Ikke-færdig readme***
-  ***Ikke-færdig readme***
-  ***Ikke-færdig readme***
+***_OBS_Ikke-færdig readme***
 
 # Speciale, Foråret 2019
-## Tobias Søndergaard & Jesper Haubjerg
+### Tobias Søndergaard & Jesper Haubjerg
    
 ***Titel...***  
   

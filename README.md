@@ -1,7 +1,7 @@
 
 **Ikke-færdig readme**
 
-# Den Rationelle skatteborger?
+# Den rationelle skatteborger?
 ### Elasticiteten af skattepligtig indkomst i Danmark fra 1990-2016
   
   ***Tobias Søndergaard & Jesper Haubjerg***

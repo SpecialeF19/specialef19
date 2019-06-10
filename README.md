@@ -1,10 +1,10 @@
 
 **Ikke-færdig readme**
 
-## Speciale, Foråret 2019
-### Den Rationelle skatteborger?
-#### Elasticiteten af skattepligtig indkomst i Danmark fra 1990-2016
-***Tobias Søndergaard & Jesper Haubjerg***
+# Den Rationelle skatteborger?
+### Elasticiteten af skattepligtig indkomst i Danmark fra 1990-2016
+  
+  ***Tobias Søndergaard & Jesper Haubjerg***
   
 I dette GitHub Repo. findes koder til replikationer af de analyser, grafer, tabeller, beregninger mv., der
 er blevet udarbejdet i forbindelse med vores speciale ved Institut for Statskundskab, Aarhus Universitet.

@@ -2,15 +2,14 @@
 **Ikke-færdig readme**
 
 # Speciale, Foråret 2019
-### Titel: asd
+### Den Rationelle skatteborger?
+# Elasticiteten af skattepligtig indkomst i Danmark fra 1990-2016
 ***Tobias Søndergaard & Jesper Haubjerg***
-  
   
 I dette GitHub Repo. findes koder til replikationer af de analyser, grafer, tabeller, beregninger mv., der
 er blevet udarbejdet i forbindelse med vores speciale ved Institut for Statskundskab, Aarhus Universitet.
 
-Mappen indeholder det konkrete replikationsmateriale der ligger bag beregninger og estimationerne.
-Mappen indeholder *ikke* replikationsmateriale til at danne de datasæt der benyttes, dvs. skattesimulatorer og diverse sammenkoblingsprogrammer. Da vores datasæt ikke kan deles, henviser vi i stedet til [Replikationsguiden i Kleven & Schultz' (2014)](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.271).
+Mappen indeholder det konkrete replikationsmateriale der ligger bag beregninger og estimationerne, men indeholder *ikke* replikationsmateriale til at danne de datasæt der benyttes, dvs. skattesimulatorer og diverse sammenkoblingsprogrammer. Da vores datasæt er konstrueret på basis af DSTs Lovmodel, henviser vi til [Replikationsguiden i Kleven & Schultz' (2014)](https://www.aeaweb.org/articles?id=10.1257/pol.6.4.271).
 
 ## Oversigt over Filer og kodesprog
 

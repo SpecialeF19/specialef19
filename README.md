@@ -10,7 +10,7 @@ Mappen indeholder det konkrete replikationsmateriale der ligger bag beregninger 
 
 ### Oversigt over filer, kodesprog og indhold
 
-***I mappen findes følgende:
+***I mappen findes følgende:***
 
 1. Appendiks 1 - Test af skattesimulatorer - **Excel** - benyttes til figuren i Appendiks 1 om skattesimulatorernes præcision.
 2. Baggrund for beregning af alpha (fordelingsparameteret) - **Stata .do-fil** - Benyttes til beregningerne i Tabel 5.3 og Tabel 5.6
